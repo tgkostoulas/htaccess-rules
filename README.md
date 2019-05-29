@@ -1,3 +1,3 @@
 # .htaccess Rules
 
-Various .htaccess rules
+Various .htaccess rules!
